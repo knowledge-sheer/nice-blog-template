@@ -1,1 +1,1 @@
-# Nice Blog Template
+# Simple Blog Template
