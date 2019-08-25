@@ -1,1 +1,1 @@
-# nice-blog-template
+# Nice Blog Template
